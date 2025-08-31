@@ -1,6 +1,6 @@
-import Link fron 'next/link'
+import Link from 'next/link'
 
-export default function TopNavBar() {
+export function TopNavBar() {
   return (
 	<nav>
 		<Link href="/about">About</Link>
