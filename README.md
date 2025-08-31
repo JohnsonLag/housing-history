@@ -8,5 +8,4 @@ Corroborating information should be publicly sourced, such as what you would fin
 
 ---
 
-This repository is made to be a starting point for forking and cloning to develop websites for different places.
-
+This repository may eventually be a starting point for cloning to develop websites for different places.
