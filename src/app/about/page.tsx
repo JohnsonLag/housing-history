@@ -1,7 +1,7 @@
 export default function Page() {
   return (
 	<div>
-		Owners
+		About goes here.
 	</div>
   );
 }
