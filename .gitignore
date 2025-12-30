@@ -42,3 +42,5 @@ next-env.d.ts
 
 # warc files
 **/warc/*
+
+/database/*
